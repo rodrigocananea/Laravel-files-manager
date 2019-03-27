@@ -1,7 +1,7 @@
 # Laravel Files Manager
 > Gerenciador de arquivos com Laravel 5.8 + Vue.js 2
 
-![Laravel](https://img.shields.io/badge/Laravel-5.6.*-orange.svg) ![Vue.js](https://img.shields.io/badge/Vue.js-2.*-green.svg) ![Laravel](https://img.shields.io/badge/Laravel-5.6.*-orange.svg) ![PHP](https://img.shields.io/badge/php->=7.0.*-blue.svg)
+![Laravel](https://img.shields.io/badge/Laravel-5.6.*-orange.svg) ![Vue.js](https://img.shields.io/badge/Vue.js-2.*-green.svg) ![PHP](https://img.shields.io/badge/php->=7.0.*-blue.svg)
 
 ![](./header-demo.png)
 
