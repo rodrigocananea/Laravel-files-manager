@@ -1,0 +1,72 @@
+{
+  "_from": "laravel-file-manager",
+  "_id": "laravel-file-manager@2.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-++I63MH7p6hhmY1XPW6ninO1yDq+DSZpkM4UfjgTiIdKocPo+tiWWbnxGuYnzEmM07xDIeEsVi1VWKSdO1LORQ==",
+  "_location": "/laravel-file-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "laravel-file-manager",
+    "name": "laravel-file-manager",
+    "escapedName": "laravel-file-manager",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/laravel-file-manager/-/laravel-file-manager-2.2.2.tgz",
+  "_shasum": "7d5541e6ae152ba208787ae5fd9a65f4ef0f8f12",
+  "_spec": "laravel-file-manager",
+  "_where": "E:\\Projects\\filemanager",
+  "author": {
+    "name": "Aleksandr Manekin",
+    "email": "alexusmai@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "codemirror": "^5.41.0",
+    "cropperjs": "^1.4.3",
+    "plyr": "^3.4.7",
+    "vue": "^2.5.17",
+    "vue-codemirror": "^4.0.5",
+    "vuex": "^3.0.1"
+  },
+  "deprecated": false,
+  "description": "File manager for Laravel",
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-plugin-unit-jest": "^3.0.5",
+    "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^3.0.5",
+    "@vue/test-utils": "^1.0.0-beta.20",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^23.0.1",
+    "babel-polyfill": "^6.26.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "keywords": [
+    "laravel",
+    "file",
+    "manager"
+  ],
+  "license": "MIT",
+  "main": "src/init.js",
+  "name": "laravel-file-manager",
+  "private": false,
+  "scripts": {
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "serve": "vue-cli-service serve",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "version": "2.2.2"
+}

@@ -1,0 +1,157 @@
+/**
+ * English translate
+ * @type Object
+ */
+const pt = {
+    btn: {
+      about: 'Sobre',
+      back: 'Voltar',
+      cancel: 'Cancelar',
+      clear: 'Limpar',
+      copy: 'Copiar',
+      cut: 'Cortar',
+      delete: 'Deletar',
+      edit: 'Editar',
+      forward: 'Frente',
+      folder: 'Nova pasta',
+      file: 'Novo arquivo',
+      fullScreen: 'Tela cheia',
+      grid: 'Grade',
+      paste: 'Colar',
+      refresh: 'Atualizar',
+      submit: 'Salvar',
+      table: 'Tabela',
+      upload: 'Upload',
+      uploadSelect: 'Arquivos selecionados',
+    },
+    clipboard: {
+      actionType: 'Tipo',
+      copy: 'Copiar',
+      cut: 'Cortar',
+      none: 'Nada selecionado',
+      title: 'Prancheta',
+    },
+    contextMenu: {
+      copy: 'Copiar',
+      cut: 'Cortar',
+      delete: 'Deletar',
+      download: 'Baixar',
+      info: 'Selecionado:',
+      open: 'Abrir',
+      paste: 'Colar',
+      properties: 'Propriedades',
+      rename: 'Renomear',
+      select: 'Selecionar',
+      view: 'Visualizar',
+      zip: 'Compactar',
+      unzip: 'Descompactar',
+      edit: 'Editar',
+      audioPlay: 'Play',
+      videoPlay: 'Play',
+    },
+    info: {
+      directories: 'Pastas:',
+      files: 'Arquivos:',
+      selected: 'Selecionado:',
+      selectedSize: 'Tamanho de arquivos:',
+      size: 'Tamanho de arquivos:',
+    },
+    manager: {
+      table: {
+        date: 'Data',
+        folder: 'Pasta',
+        name: 'Nome',
+        size: 'Tamanho',
+        type: 'Tipo',
+      },
+    },
+    modal: {
+      about: {
+        developer: 'Desenvolvedor',
+        name: 'RAVC (Rodrigo Aguiar Vidal Cananea)',
+        title: 'Sobre',
+        version: 'Versão:',
+      },
+      delete: {
+        noSelected: 'Nada selecionado!',
+        title: 'Deletar',
+      },
+      newFile: {
+        fieldName: 'Nome do arquivo',
+        fieldFeedback: 'Arquivo já existe!',
+        title: 'Criar novo arquivo',
+      },
+      newFolder: {
+        fieldName: 'Nome da pasta',
+        fieldFeedback: 'Pasta já existe!',
+        title: 'Criar nova pasta',
+      },
+      preview: {
+        title: 'Pre-visualizar',
+      },
+      properties: {
+        disk: 'Disco',
+        modified: 'Modificado',
+        name: 'Nome',
+        path: 'Caminho',
+        size: 'Tamanho',
+        title: 'Propriedades',
+        type: 'Tipo',
+        access: 'Acesso',
+        access_0: 'Acesso negado',
+        access_1: 'Somente leitura',
+        access_2: 'Ler e escrever',
+      },
+      rename: {
+        directoryExist: 'Diretório já existe',
+        fieldName: 'Digite um novo nome',
+        fieldFeedback: 'nome inválido',
+        fileExist: 'Arquivo já existe',
+        title: 'Renomear',
+      },
+      status: {
+        noErrors: 'Sem erros!',
+        title: 'Status',
+      },
+      upload: {
+        ifExist: 'Se o arquivo existir:',
+        noSelected: 'Sem arquivos selecionados!',
+        overwrite: 'Sobrescrever!',
+        selected: 'Selecionado:',
+        size: 'Tamanho:',
+        skip: 'Pular',
+        title: 'Fazer upload de arquivos',
+      },
+      editor: {
+        title: 'Editor',
+      },
+      audioPlayer: {
+        title: 'Audio player',
+      },
+      videoPlayer: {
+        title: 'Video player',
+      },
+      zip: {
+        title: 'Criar arquivo',
+        fieldName: 'Nome do arquivo',
+        fieldFeedback: 'Arquivo já existe!',
+      },
+      unzip: {
+        title: 'Descompactar arquivo',
+        fieldName: 'Nome da pasta',
+        fieldRadioName: 'Extrair para:',
+        fieldRadio1: 'Para a pasta atual',
+        fieldRadio2: 'Em uma nova pasta',
+        fieldFeedback: 'Pasta já existe!',
+        warning: 'Atenção! Se os nomes coincidirem, os arquivos serão sobrescritos!',
+      },
+      cropper: {
+        title: 'Cortando',
+        apply: 'Aplicar',
+        reset: 'Restabelecer',
+        save: 'Salvar',
+      },
+    },
+  };
+
+  export default pt;
