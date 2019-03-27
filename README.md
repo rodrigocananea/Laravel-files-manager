@@ -18,12 +18,18 @@ cp .env.example .env
 # Windows
 copy .env.example .env
 
-# Dependencias do Vue.js
-npm install
-
 # Testes
 php artisan serve 
+
+# Se for querer alterar as telas do Vue.js
+npm install
+
+# Será preciso rodar o servidor do artisan
+php artisan serve
+# Usar o BrowserSync 
+npm run watch
 ```
+
 
 ## Formas de uso
 Em `resources/js/app.js` na linha 26 se alterar o caminho para pegar da pasta `node_modules` será utilizado o Front End original do repositório.
