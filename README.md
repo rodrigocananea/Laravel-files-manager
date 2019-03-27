@@ -18,6 +18,9 @@ cp .env.example .env
 # Windows
 copy .env.example .env
 
+# Gerar chave .env
+php artisan key:generate
+
 # Testes
 php artisan serve 
 
